@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<View id="spinnerView">
+			<View id="cube1" class="cube" />
+			<View id="cube2" class="cube" left="40dp" top="40dp"/>
+		</View>
+	
+		<Button onClick="doWork" top="240dp">Activate</Button>
+	</Window>
+</Alloy>

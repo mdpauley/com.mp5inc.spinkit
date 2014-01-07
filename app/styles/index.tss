@@ -1,0 +1,33 @@
+".container": {
+	backgroundColor:"#d35400"
+},
+"#spinnerView": {
+	backgroundColor: "rgba(0, 0, 0, 0)",
+	height: "60dp",
+	width: "60dp",
+	top: "60dp"
+},
+".doubleBounce": {
+  width: "60dp",
+  height: "60dp",
+  borderRadius: "30dp",
+  backgroundColor: "rgba(255, 255, 255, 0.6)"
+},
+".doubleBounce[platform=android]": {
+  backgroundColor: "#FFFFFF",
+  opacity: 0.6
+},
+"#spinnerView2": {
+	backgroundColor: "rgba(0, 0, 0, 0)",
+	height: "60dp",
+	width: "57dp",
+	top: "140dp",
+	layout: "horizontal"
+},
+".rect": {
+	top: "20dp",
+	bottom: "20dp",
+	width: "6dp",
+	left: "3dp",
+	backgroundColor: "#FFF"
+}

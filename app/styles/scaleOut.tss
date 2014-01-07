@@ -1,0 +1,6 @@
+".doubleBounce": {
+  width: "60dp",
+  height: "60dp",
+  borderRadius: "30dp",
+  backgroundColor: "rgba(255, 255, 255, 0.6)"
+}

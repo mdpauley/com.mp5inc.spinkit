@@ -1,0 +1,14 @@
+<Alloy>
+	<Window class="container">
+		<View id="spinnerView" layout="horizontal">
+			<View id="rect1" class="rect" />
+			<View id="rect2" class="rect" />
+			<View id="rect3" class="rect" />
+			<View id="rect4" class="rect" />
+			<View id="rect5" class="rect" />
+			<View id="rect6" class="rect" />
+		</View>
+	
+		<Button onClick="doWork" top="240dp">Activate</Button>
+	</Window>
+</Alloy>

@@ -1,0 +1,7 @@
+".cube": {
+	height: "15dp",
+	width: "15dp",
+	left: "0dp",
+	top: "0dp",
+	backgroundColor: "#FFF"
+}

@@ -1,0 +1,7 @@
+".rect": {
+	top: "15dp",
+	bottom: "15dp",
+	width: "6dp",
+	left: "3dp",
+	backgroundColor: "#FFF"
+}

@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container">
+		<View id="spinnerView">
+			<View class="doubleBounce" id="doubleBounce" />
+		</View>
+		
+		<Button onClick="doWork" top="240dp">Activate</Button>
+	</Window>
+</Alloy>

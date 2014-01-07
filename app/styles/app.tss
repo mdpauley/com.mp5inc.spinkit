@@ -1,0 +1,22 @@
+"Label[platform=android]": {
+   color: "#000" 
+},
+"Window": {
+    backgroundColor: "#d35400"
+},
+"Window[platform=android]": {
+    modal: false
+},
+"TextField": {
+    borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED
+},
+"ImageView":{
+	preventDefaultImage: true
+},
+
+"#spinnerView": {
+	backgroundColor: "rgba(0, 0, 0, 0)",
+	height: "60dp",
+	width: "60dp",
+	top: "60dp"
+}
