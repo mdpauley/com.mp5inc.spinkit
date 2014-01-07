@@ -1,5 +1,5 @@
 <Alloy>
-	<Window class="container">
+	<Window class="container" backgroundColor="#2980b9">
 		<View id="spinnerView">
 			<View id="cube1" class="cube" />
 			<View id="cube2" class="cube" left="40dp" top="40dp"/>

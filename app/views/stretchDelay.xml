@@ -1,5 +1,5 @@
 <Alloy>
-	<Window class="container">
+	<Window class="container" backgroundColor="#1abc9c">
 		<View id="spinnerView" layout="horizontal">
 			<View id="rect1" class="rect" />
 			<View id="rect2" class="rect" />

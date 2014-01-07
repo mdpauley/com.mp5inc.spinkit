@@ -1,7 +1,7 @@
 <Alloy>
-	<Window class="container">
+	<Window class="container" backgroudColor="#7f8c8d">
 		<View id="spinnerView">
-			<View class="doubleBounce" id="doubleBounce" />
+			<View class="doubleBounce" id="doubleBounce1" />
 		</View>
 	</Window>
 </Alloy>

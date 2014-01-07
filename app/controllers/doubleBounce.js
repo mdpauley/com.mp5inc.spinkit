@@ -1,7 +1,5 @@
 var args = arguments[0] || {};
 
-doWork();
-
 /* set inital scale of 1 circle */
 $.doubleBounce1.animate({
 	opacity : 1,
@@ -9,7 +7,9 @@ $.doubleBounce1.animate({
 	duration : 1,
 });
 
-var doWork = function() {
+doWork();
+
+function doWork(){
 	var b0 = Ti.UI.createAnimation({
 		transform : Ti.UI.create2DMatrix().scale(0.0, 0.0),
 		duration : 1000,
