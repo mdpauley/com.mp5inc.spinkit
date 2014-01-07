@@ -1,33 +1,16 @@
-    <Alloy>
-        <TabGroup backgroundColor="white" >
-            <Tab id="tab1" title="Double Bounce" icon="">
-                 <Require type="view" src="doubleBounce" id="doubleBounce"/>
-            </Tab>
-            <Tab id="tab2" title="Stretch Delay" icon="">
-                <Require type="view" src="stretchDelay" id="stretchDelay"/>
-            </Tab>
-            <Tab id="tab3" title="Cube Move" icon="">
-                <Require type="view" src="cubeMove" id="cubeMove"/>
-            </Tab>
-            <Tab id="tab4" title="Scale Out" icon="">
-                <Require type="view" src="scaleOut" id="scaleOut"/>
-            </Tab>
-        </TabGroup>
-    </Alloy>
-
-<!--<Alloy>
-	<Window class="container">
-		<View id="spinnerView">
-			<View class="doubleBounce" id="doubleBounce2" />
-			<View class="doubleBounce" id="doubleBounce1" />
-		</View>
-		<View id="spinnerView2">
-			<View id="rect1" class="rect" onclick="stretch"/>
-			<View id="rect2" class="rect" />
-			<View id="rect3" class="rect" />
-			<View id="rect4" class="rect" />
-			<View id="rect5" class="rect" />
-			<View id="rect6" class="rect" />
-		</View>
-	</Window>
-</Alloy>-->
+<Alloy>
+	<TabGroup backgroundColor="white" >
+		<Tab id="tab1" title="Double Bounce" icon="">
+			<Require type="view" src="doubleBounce" id="doubleBounce"/>
+		</Tab>
+		<Tab id="tab2" title="Stretch Delay" icon="">
+			<Require type="view" src="stretchDelay" id="stretchDelay"/>
+		</Tab>
+		<Tab id="tab3" title="Cube Move" icon="">
+			<Require type="view" src="cubeMove" id="cubeMove"/>
+		</Tab>
+		<Tab id="tab4" title="Scale Out" icon="">
+			<Require type="view" src="scaleOut" id="scaleOut"/>
+		</Tab>
+	</TabGroup>
+</Alloy>

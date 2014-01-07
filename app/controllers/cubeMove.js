@@ -1,6 +1,8 @@
 var args = arguments[0] || {};
 var animation = require('alloy/animation');
 
+doWork();
+
 function doWork() {	
 	var s1 = Ti.UI.createAnimation({
 		transform : Ti.UI.create2DMatrix({

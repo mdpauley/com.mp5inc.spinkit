@@ -8,7 +8,5 @@
 			<View id="rect5" class="rect" />
 			<View id="rect6" class="rect" />
 		</View>
-	
-		<Button onClick="doWork" top="240dp">Activate</Button>
 	</Window>
 </Alloy>

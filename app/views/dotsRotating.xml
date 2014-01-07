@@ -1,7 +1,8 @@
 <Alloy>
 	<Window class="container">
 		<View id="spinnerView">
-			<View class="doubleBounce" id="doubleBounce" />
+			<View id="dot1" class="dots" />
+			<View id="dot2" class="dots" />
 		</View>
 	</Window>
 </Alloy>
