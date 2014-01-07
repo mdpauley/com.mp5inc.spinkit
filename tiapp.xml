@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <id>com.mp5inc.testproject</id>
+    <id>com.mp5inc.spinkit</id>
     <name>TestProject</name>
     <version>1.0</version>
     <publisher>mdpauley</publisher>
     <url>http://</url>
-    <description>not specified</description>
+    <description>	not specified</description>
     <copyright>2014 by mdpauley</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
